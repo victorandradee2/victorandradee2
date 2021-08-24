@@ -5,9 +5,9 @@
     <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorandradee2&layout=compact&langs_count=7&theme=radical"/>
  </div>
  
-- 🔭 Cursando o Ensino Médio
-- 🌱 Aprendando Java e ReactNative
-- 😄 vittu/ele
+ - 🔭 Cursando o Ensino Médio
+ - 🌱 Aprendando Java e ReactNative
+ - 😄 vittu/ele
  
 <h4>Minhas ferramentas:
 <div style="display: inline_block"><br>
