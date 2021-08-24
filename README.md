@@ -6,7 +6,6 @@
     <a href="https://github.com/victorandradee2">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=victorandradee2&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
     <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorandradee2&layout=compact&langs_count=7&theme=radical"/>
- </div>
  
  ##
  
@@ -48,5 +47,8 @@
   <a href = "https://www.facebook.com/profile.php?id=100007092004004"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
   <a href = "https://twitter.com/VictorA19859593"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
 </div>
+![Snake animation](https://github.com/victorandradee2/victorandradee2/blob/output/github-contribution-grid-snake.svg)
+</div>
+     
   
  
