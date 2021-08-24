@@ -1,4 +1,4 @@
-## Kon'nichiwa, meu nome é Victor A. :)
+## Kon'nichiwa, meu nome é Victor Andrade :)
 
 ### Meus status no GitHub:
 
