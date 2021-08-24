@@ -1,8 +1,4 @@
 ## Kon'nichiwa, meu nome é Victor A. :)
-- 🔭 Cursando o Ensino Médio
-- 🌱 Aprendando Java e ReactNative
-- 😄 vittu/ele
-
 ##
  <div>
   <a href="https://github.com/victorandradee2">
@@ -10,7 +6,6 @@
   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorandradee2&layout=compact&langs_count=7&theme=radical"/>
    </div>
 <h4>Minhas ferramentas:
- 
 <div style="display: inline_block"><br>
   <img align="center" alt="Vittu-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Vittu-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
