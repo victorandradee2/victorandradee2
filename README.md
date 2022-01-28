@@ -14,7 +14,7 @@
  
  - 🔭 Cursando o Ensino Médio
  - 🌱 Aprendando Java e ReactNative
- - 🧩 Formando minha carreira em T.I
+ - 🧩 Formando minha carreira em Desenvolvedor de Software
 
  
  ##
