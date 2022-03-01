@@ -33,7 +33,7 @@
   <img align="center" alt="Vittu-PHP" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg">
   <img align="center" alt="Vittu-Arduino" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg">
   <img align="center" alt="Vittu-MYSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
- <img align="center" alt="Vittu-nextJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
+  <img align="center" alt="Vittu-nextJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
 </div>
  
  ##
